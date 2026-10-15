@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 MAVIS - Mobility Analytics & Vehicle Intelligence System
 
 Complete Full-Stack Application in One Unified Folder:
@@ -76,3 +77,7 @@ mvn spring-boot:run
 | **Admin** | `admin@mavis.com` | `password123` |
 
 *(Note: There is also an instant 1-click Role Switcher button in the navbar for quick demoing!)*
+=======
+# MAVIS-Mobility-Analytics-Vehicle-Intelligence-System-
+MAVIS is an AI-powered vehicle service management system built with React.js, Spring Boot, and MySQL to simplify bookings, repairs, and service tracking.
+>>>>>>> 4aae2f11b9eeefd6deb1eae6dde2e108219da4df
